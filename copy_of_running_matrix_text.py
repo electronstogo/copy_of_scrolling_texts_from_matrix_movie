@@ -1,3 +1,5 @@
+# 2018 - electronstogo
+
 from tkinter import *
 import random
 import string
